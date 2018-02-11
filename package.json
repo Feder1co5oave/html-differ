@@ -1,6 +1,6 @@
 {
   "name": "html-differ",
-  "version": "1.3.4",
+  "version": "1.4.0-alpha",
   "description": "Compares two HTML",
   "keywords": [
     "html-differ",
@@ -11,8 +11,8 @@
     "differ",
     "diff"
   ],
-  "homepage": "https://github.com/bem/html-differ",
-  "bugs": "https://github.com/bem/html-differ/issues",
+  "homepage": "https://github.com/Feder1co5oave/html-differ",
+  "bugs": "https://github.com/Feder1co5oave/html-differ/issues",
   "author": {
     "name": "Evgeniy Gavryushin",
     "email": "job.egavr@yandex.ru",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bem/html-differ.git"
+    "url": "git://github.com/Feder1co5oave/html-differ.git"
   },
   "dependencies": {
     "chalk": "1.0.0",
