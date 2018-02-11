@@ -90,9 +90,6 @@ describe('\'utils\'', function () {
                 { name: 'c', value: 'c' }
             ],
             output = [
-                { name: 'a', value: '' },
-                { name: 'a', value: '' },
-                { name: 'b', value: '' },
                 { name: 'c', value: 'c' }
             ];
 
